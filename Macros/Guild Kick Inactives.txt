@@ -1,0 +1,9 @@
+/run if not CanGuildRemove() then return end for i=1,GetNumGuildMembers() do local y,m,d=GetGuildRosterLastOnline(i) print((GetGuildRosterInfo(i)),y,m,d) if y then if y>0 or m>0 or d>7 then GuildUninvite(GetGuildRosterInfo(i)) end end end
+
+It's set on more than 7 days now. You can change it to whatever day you want. Not weeks, so you have to set it in days. For example
+
+/run if not CanGuildRemove() then return end for i=1,GetNumGuildMembers() do local y,m,d=GetGuildRosterLastOnline(i) print((GetGuildRosterInfo(i)),y,m,d) if y then if y>0 or m>0 or d>14 then GuildUninvite(GetGuildRosterInfo(i)) end end end
+
+This is 14days (2weeks)
+
+/run if not CanGuildRemove() then return end for i=1,GetNumGuildMembers() do local y,m,d=GetGuildRosterLastOnline(i) print((GetGuildRosterInfo(i)),y,m,d) if y then if y>0 or m>0 or d>28 then GuildUninvite(GetGuildRosterInfo(i)) end end end

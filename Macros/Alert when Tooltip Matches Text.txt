@@ -1,0 +1,1 @@
+/run local f,x = CreateFrame("frame",nil, UIParent);f:SetScript("OnUpdate", function() 	if GameTooltipTextLeft1:GetText() == "Edge of Reality" 	then PlaySoundKitID(11466, "master", true); 	end end end)

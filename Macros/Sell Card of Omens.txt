@@ -1,0 +1,1 @@
+/run i=1; sell=12; for bag = 0,4,1 do for slot = 1, GetContainerNumSlots(bag), 1 do local n = GetContainerItemLink(bag,slot); if i<=sell then if n and string.find(n,"Blood Card") then UseContainerItem(bag,slot) i=i+1 end end end end
