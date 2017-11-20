@@ -1,0 +1,120 @@
+__ General __
+
+Burning Pandaren Spirit::1116143:ZL:ZL:N:Turn 1    Crush\nTurn 2    Sandstorm\nTurn 3    Deflection\nTurns 4+    Crush until Crimson is dead (refresh Sandstorm if it comes off cooldown)\nPandaren Fire Spirit comes in\nTurn 1    Deflection (NOTE: Unfortunately if you get a crit on Crimson then Deflection will not be available and you will have to restart the fight)\nTurns 2+    Keep Sandstorm on cooldown and use Crush in between.\nImportant: When Deflection comes off cooldown, cast Crush or Sandstorm, then use Deflection again.\nPandaren Fire Spirit should die shortly after the second Deflection.\nGlowy comes in\nUse Crush until Sandstorm comes off cooldown\nThen use Sandstorm\nSwap in Level-Pet 1\nSwap in Level-Pet 2 if you want\nSwap back to Anubisath Idol\nSame as before, Sandstorm on cooldown and Crush in between until Glowy dies.
+Courageous Yon::221414F:ZL:1126140:N:Turn 1    Emerald Bite\nTurn 2    Emerald Presence\nTurn 3+    Emerald Bite until Piqua dies\nLapin comes in\nTurn 1    Emerald Presence\nTurn 2+3    Proto-Strike\nTurn 4+    Emerald Bite until Lapin dies\nBleat comes in\nTurn 1    Swap in level pet\nTurn 2    Swap in \nTurn 3    Howl\nTurn 4    Surge of Power - dies afterwards\nBring back your \nTurn 1+    Emerald Bite
+Dos-Ryga::11181FS:111819D:ZL:N:Turn 1    Black Claw\nTurn 2-4    Flock
+Flowing Pandaren Spirit::22271C8:ZL:22171C8:
+Gorespine::221BHD:11171BB:1127AI:
+Ka'wi the Gorger::121713Q:111814A:222A15R:
+Kafi::121713Q:112716B:2215198:N:Turn 1+    Diseased Bite until your enters its undead round\nThen:    Howl\nBring in your \nTurn 1    Shock and Awe\nTurn 2    Ion Cannon
+Nitun::121713Q:111814A:222A15R:
+No-No::11244C:1129MS:1127NC:
+Seeker Zusshi::1114NA:ZL:1126140:N:Turn 1    Shell Shield\nTurn 2    Renewing Mists\nTurn 3    Snap\nTurn 4    Snap\nTurn 5    Renewing Mists\nTurn 6    Shell Shield\nTurn 7    Snap\nTurn 8    Snap\nTurn 9    Renewing Mists\nTurn 10+    Snap until Diamond is dead. Depending on your crab that might have happened way before this point.\nMollus comes in\nContinue with the same strategy, keep Shell Shield and Renewing Mists active. Use Snap in between.\nSkimmer comes in\nTurn 1    Swap to Level Pet\nTurn 2    Swap back to Emperor Crab\nTurn 3+    Keep doing above strategy until your Crab dies.\nBring in Chrominius\nTurn 1    Bite\nTurn 2    Howl\nTurn 3    Surge of Power
+Thundering Pandaren Spirit::111691:122CAJ:ZL:N:Turns 1+2    Dive\nTurn 3    Acidic Goo\nTurn 4    Ooze Touch until Pandaren Earth Spirit dies.\nSludgy comes in\nTurn 1    Acidic Goo\nTurns 2+    Keep Ooze Touching until your Snail dies.\nBring in your Darkmoon Zeppelin\nTurns 1+    Missile until Sludgy dies.\nDarnak comes in\nTurn 1    Missile\nTurn 2    Decoy\nImportant: While doing the next moves. If he gets below 850 and has Stone rush ready, just Skip to Explode for he will do 240 damage to himself.\nTurn 3+    Missile until Darnak is below 618 health.\nThen (BOOM!)    Explode\nYour level pet will be the only survivor and get the full experience of the fight.
+Ti'un the Wanderer::11141BA:1223MI:122ANB:N:Turn 1    Shell Shield\nTurn 2    Renewing Mists\nTurn 3    Snap\nTurn 4    Snap\nTurn 5    Renewing Mists\nTurn 6    Shell Shield\nTurn 7    Snap\nTurn 8    Snap\nTurn 9    Renewing Mists\nTurn 10+    Snap until Diamond is dead. Depending on your crab that might have happened way before this point.\nMollus comes in\nContinue with the same strategy, keep Shell Shield and Renewing Mists active. Use Snap in between.\nSkimmer comes in\nTurn 1    Swap to Level Pet\nTurn 2    Swap back to Emperor Crab\nTurn 3+    Keep doing above strategy until your Crab dies.\nBring in Chrominius\nTurn 1    Bite\nTurn 2    Howl\nTurn 3    Surge of Power
+Wastewalker Shu::21144C:1126140:1127AI:
+
+__ Tanaan Jungle __
+
+
+__ Broken Isles __
+
+Amalia:38V1:222414E:222519V:ZL:P:::1::20::
+Amalia::1114NA:1116CH:111CHL:
+Ancient Catacomb Eggs:36RB:112CAJ:22271C8:ZL:N:Turn 1    Bombing Run\nTurn 2    Missile\nTurn 3    Decoy\nTurns 4+    Missile until the Ancient Catacomb Spider dies\nCatacomb Bat comes in\nTurn 1    Swap to your Teroclaw Hatchling\nTurn 2    Dodge\nTurn 3    Alpha Strike\nTurn 4    Nature's Ward\nTurns 5+    Alpha Strike until the Catacomb Bat dies\nCatacomb Snake comes in\nTurn 1    Swap to your Level Pet\nTurn 2    Swap to your Darkmoon Zeppelin\nTurn 3    Decoy\nTurn 4    Bombing Run\nTurns 5+    Missile until the fight is done\nWorst case bring back your Teroclaw Hatchling and use Dodge + Alpha Strike
+Andurs:36TB:12271BB:12281BB:ZL:N:Turn 1    Toxic Smoke\nTurn 2    Wind-Up\nTurn 3    Toxic Smoke\nTurn 4    Wind-Up\nTurn 5    Explode - your small pets get all the XP :-)
+Ashlei:2L2K:1115QC:ZL:ZL:N:Turn 1+    Breath until Pixiebell dies\nDoodle comes in\nTurn 1    Bombing Run\nTurn 2+    Breath until Tally dies. (Doodle swaps out and Tally swaps in sometime between your Breaths)\nDoodle comes back in\nTurn 1+    Breath until Doodle is below 560 health\nAction 1    Explode - your one or two leveling pets will get the full experience.
+Aulier:36P2:111A9V:11151JS:212817S:
+Aulier::112A9V:2125L7:111818:
+Bleakclaw:2SDL:2126140:1116143:222414F:
+Blottis:37DA:112616M:11181FS:ZL:N:Turn 1    Unholy Ascension\nBring in Ikky\nTurn 2    Black Claw\nTurns 3-5    Flock - Blottis dies
+Bodhi Sunwayver - FF:30SA:211414F:ZL:1126140:
+Bredda - FF:30O5:111A1BB:1125QC:122C3K:N:Turn 1    Wind-Up\nTurn 2    Supercharge\nTurn 3    Wind-Up - Lil' Spirit Guide resurrects\nTurn 4    Wind-Up - Lil' Spirit Guide dies\nQuillino comes in\nTurn 1+    Wind-Up until your dies (it's okay if you don't hit Quillino a single time!)\nBring in your \nTurn 1+    Breath until Quillino is dead\nFethyr comes in\nTurn 1    Decoy\nTurn 2    Bombing Run\nTurn 3+    Breath until your is dead\nBring in your \nTurn 1    Call Blizzard\nTurn 2+    Metal Fist until Fethyr is dead
+Burning Pandaren Spirit:22RF:1116143:ZL:ZL:N:Turn 1    Crush\nTurn 2    Sandstorm\nTurn 3    Deflection\nTurns 4+    Crush until Crimson is dead (refresh Sandstorm if it comes off cooldown)\nPandaren Fire Spirit comes in\nTurn 1    Deflection (NOTE: Unfortunately if you get a crit on Crimson then Deflection will not be available and you will have to restart the fight)\nTurns 2+    Keep Sandstorm on cooldown and use Crush in between.\nImportant: When Deflection comes off cooldown, cast Crush or Sandstorm, then use Deflection again.\nPandaren Fire Spirit should die shortly after the second Deflection.\nGlowy comes in\nUse Crush until Sandstorm comes off cooldown\nThen use Sandstorm\nSwap in Level-Pet 1\nSwap in Level-Pet 2 if you want\nSwap back to Anubisath Idol\nSame as before, Sandstorm on cooldown and Crush in between until Glowy dies.
+Christoph VonFeasel:2JGF:2225MK:11181BB:ZL:
+Chromadon:37BI:121B8L:ZL:211691:
+Clonedance::1116E8:111519L:2214NA:N:Turn 1    Wind-Up\nTurn 2    Wind-Up\nTurn 3    Wind-Up\nTurn 4    Supercharge\nTurn 5    Wind-Up\nTurn 6    Wind-Up\nTurn 7    Wind-Up\nTurn 8    Pass - Stitches dead!
+Corrupted Thundertail:2SDD:2215198:1116143:122414F:
+Courageous Yon:215I:221414F:ZL:1126140:N:Turn 1    Emerald Bite\nTurn 2    Emerald Presence\nTurn 3+    Emerald Bite until Piqua dies\nLapin comes in\nTurn 1    Emerald Presence\nTurn 2+3    Proto-Strike\nTurn 4+    Emerald Bite until Lapin dies\nBleat comes in\nTurn 1    Swap in level pet\nTurn 2    Swap in \nTurn 3    Howl\nTurn 4    Surge of Power - dies afterwards\nBring back your \nTurn 1+    Emerald Bite
+Cymre Brightblade:2HRT:1124NA:ZL:1114149:N:Turn 1    Whirlpool\nTurn 2    Snap\nTurn 3    Snap\nNOTE: If your Crab has 1481 maximum health and you got a critical hit earlier and Idol of Decay is below 450 HP (an estimate), DO NOT do Turn 4, skip to Turn 5.\nTurn 4    Snap\nImportant: If your Crab has 1806 maximum health (H/H Breed), do one more Snap. BUT If you got a critical hit earlier and the Idol of Decay is below 450 HP (an estimate), DO NOT do one more snap, skip to turn 5.\nTurn 5    Swap to your Leveling Pet\nTurn 6    Swap back to Emperor Crab\nTurn 7    Renewing Mists\nTurn 8    Snap - the Idol dies and resurrects for one round\nTurn 9    Swap to Infinite Whelpling - Idol dies\nWishbright Lantern comes in\nTurn 1    Healing Flame\nTurn 2    Tail Sweep\nTurn 3    Tail Sweep\nTurn 4    Tail Sweep - the Lantern dies\nGyrexle comes in\nTurn 1    Early Advantage\nTurn 2    Tail Sweep\nTurn 3    Tail Sweep - done!
+Dazed and Confused and Adorable:37VC:22271C8:ZL:ZL:
+Dos-Ryga:22UK:11181FS:111819D:ZL:N:Turn 1    Black Claw\nTurn 2-4    Flock
+Durian Strongfruit - FF:30MR:111C1D1:ZL:1126140:
+Envoy of the Hunt:3718:221528:ZL:2213EV:
+Erris the Collector:2OS9:1116143:ZL:111818:N:Turn 1    Sandstorm\nTurn 2    Swap to your Level Pet\nTurn 3    Swap back to your \nTurn 4+    Use Sandstorm on cooldown and use Crush otherwise until you won the fight.
+Fight Night: Sir Galveston:30RE:221616M:122A14D:ZL:P:::::20::
+Fight Night: Tiffany Nelson:2VGC:22271C8:ZL:122A14D:P:::::10::N:Turn 1    Alpha Strike\nTurn 2    Dodge\nTurns 3+    Alpha Strike until Jinx is dead\nRocket comes in\nTurn 1    Swap to your Level Pet\nTurn 2    Swap to your Nexus Whelpling\nTurn 3    Arcane Storm\nTurns 4+    Mana Surge - Rocket dies\nMarshmallow comes in\nTurns 1+    Tail Sweep until your Nexus Whelpling dies\nBring back your Teroclaw Hatchling\nIf Marshmallow is very low on health (300 or less), just use Alpha Strike\nIf he has a bit higher health, use:\nTurn 1    Dodge\nTurn 2    Nature's Ward\nTurns 3+    Alpha Strike until he is dead
+Flowing Pandaren Spirit:22RE:22271C8:ZL:22171C8:
+Flummoxed:2VDD:221316M:11181FS:ZL:
+Fragment of Fire:36K5:21152N:ZL:211691:N:Turn 1    Evanescence\nTurn 2    Moonfire\nTurns 3+    Arcane Blast until Cackling Flame is dead\nDevouring Blaze comes in\nTurn 1    Evanescence\nTurns 2+    Arcane Blast until your Sprite Darter Hatchling dies\nBring in your Level Pet\nTurn 1    Swap to your snail\nTurns 2+    Acidic Goo and Ooze Touch until Devouring Blaze uses Armageddon to self-destruct (usually this is not necessary at all)\nLiving Coals come in\nTurns 1+    Keep Dive on cooldown\nKeep Acidic Goo active\nUse Ooze Touch otherwise until the fight is won
+Gargra:2L2I:111B8L:122CAJ:ZL:
+Gorespine:22UE:221BHD:11171BB:1127AI:
+Grixis Tinypop - FF:30QE:22271C8:1126140:11151MC:
+Heliosus:31CU:121316M:11251TM:11181FS:N:Turn 1    Curse of Doom\nTurn 2    Haunt\nBring in Ikky\nTurn 1    Black Claw\nTurn 2+    Flock
+Hungry Icefang:36AE:221616M:ZL:21181FS:
+Hunting Lesson Terror Larva::122B8L:111814E:22141TO:P:::::10::N:Turn 1    Alpha Strike\nTurn 2    Dodge\nTurns 3+    Alpha Strike until Jinx is dead\nRocket comes in\nTurn 1    Swap to your Level Pet\nTurn 2    Swap to your Nexus Whelpling\nTurn 3    Arcane Storm\nTurns 4+    Mana Surge - Rocket dies\nMarshmallow comes in\nTurns 1+    Tail Sweep until your Nexus Whelpling dies\nBring back your Teroclaw Hatchling\nIf Marshmallow is very low on health (300 or less), just use Alpha Strike\nIf he has a bit higher health, use:\nTurn 1    Dodge\nTurn 2    Nature's Ward\nTurns 3+    Alpha Strike until he is dead
+Illidari Masters: Madam Viciosa:3J5U:ZL:121316M:1225QC:P:::::10::N:Turn 1    Pass - your Unborn Val'kyr is swapped in\nTurn 2    Curse of Doom\nTurn 3    Shadow Slash\nTurn 4    Shadow Slash\nTurn 5    Haunt\nBring in your Mechanical Pandaren Dragonling\nTurn 1    Decoy - Imply dies\nRover comes in\nTurn 1+    Breath until Rover is dead\nSeduction comes in\nTurn 1    Thunderbolt\nTurn 2+    Breath until your Mechanical Pandaren Dragonling dies\nBring back your Unborn Val'kyr\nTurn 1+    Shadow Slash until the fight is won
+Illidari Masters: Nameless Mystic:3J5V:1225QC:222CAJ:ZL:N:Turn 1    Breath\nTurn 2    Decoy\nTurns 3+    Breath until Fido dies\nSeer's Eye comes in\nTurn 1    Thunderbolt\nTurn 2+    Use Decoy and Thunderbolt whenever available, otherwise Breath until your Mechanical Pandaren Dragonling dies\nThis will take care of Seer's Eye as well\nBring in your Darkmoon Zeppelin\nTurn 1    Flyby until Flickering Fel drops below 618 health\nThen:    Explode, your Level Pet will get the full experience
+Illidari Masters: Sissix:3J5E:2114NA:ZL:1213EV:P:::::15::N:Turn 1    Shell Shield\nTurn 2    Renewing Mists\nTurn 3    Surge\nTurn 4    Surge\nTurn 5    Surge\nTurn 6    Renewing Mists\nTurn 7    Shell Shield\nTurn 8+    Surge until Living Pool is dead\nTia Mia and Larry come in\nTurn 1    Swap to your Level Pet\nTurn 2    Swap to your Rabbit\nTurn 3    Scratch\nTurn 4    Dodge\nTurn 5    Scratch\nTurn 6    Scratch\nTurn 7    Scratch\nTurn 8+9    Burrow\nTurn 10+    If necessary, Dodge another Whirlpool, otherwise use Scratch until Tia Mia and Larry are dead\nRock Lobster comes in\nTurn 1+    Scratch until your Rabbit dies\nBring back your Emperor Crab\nTurn 1    Shell Shield\nTurn 2    Renewing Mists\nTurn 3+    Keep Shell Shield and Renewing Mists active and use Surge to finish the fight.
+Jeremy Feasel:21PA:1225QC:ZL:1127AI:N:Turn 1    Decoy\nTurn 1+    Breath until Judgement dies\nHonky-Tonk comes in\nTurn 2    Thunderbolt when it is ready and otherwise Breath until your Dragonling dies.\nIf Honky-Tonk is still alive, bring in your Darkmoon Tonk and use Missile to finish him off.\nFezwick comes in\nTurn 1    Bring in your level pet\nTurn 2    Bring in Darkmoon Tonk\nTurn 3    Shock and Awe\nTurn 4    Ion Cannon
+Ka'wi the Gorger:22UB:121713Q:111814A:222A15R:
+Kafi:22UJ:121713Q:112716B:2215198:N:Turn 1+    Diseased Bite until your enters its undead round\nThen:    Howl\nBring in your \nTurn 1    Shock and Awe\nTurn 2    Ion Cannon
+Lil'idan:37BH:122316M:221514S:11181FS:
+Manos, Hanos, Fatos:2JK2:11181DA:1126140:1225QC:N:Turn 1+    Breath until Manos dies\nHanos comes out\nTurn 1    Decoy\nTurn 2+    Breath until Hanos dies\nFatos comes out\nTurn 1+    Breath until your Dragonling dies.\nBring in Chrominius\nTurn 1+    Bite Fatos to death!
+Master Tamer Flummox::111A1IS:12141A5:222C11H:
+Meet The Maw:36H0:121414F:111A14D:ZL:
+Mirecroak:2SDJ:11181FS:1116143:111414F:
+Netherfist:2SDO:212A15R:1116143:111414F:
+New Team::221616M:ZL:21181FS:
+Nightwatcher Merayl:381O:212A15R:2125L7:111A9V:
+Nitun:22UL:121713Q:111814A:222A15R:
+No-No:22UF:11244C:1129MS:1127NC:
+Odrogg::121B14C:1225QC:ZL:
+Odrogg - FF:3639:12288A:2116DN:21261BI:
+Ominitron Defense System:31H6:1126143:ZL:1225QC:
+PVP1::112A1GA:111B8L:2215198:N:Turn 1    Wind-Up\nTurn 2    Wind-Up\nTurn 3    Wind-Up\nTurn 4    Supercharge\nTurn 5    Wind-Up\nTurn 6    Wind-Up\nTurn 7    Wind-Up\nTurn 8    Pass - Stitches dead!
+PVP2::12141AK:122719A:122519V:N:Turn 1    Wind-Up\nTurn 2    Wind-Up\nTurn 3    Wind-Up\nTurn 4    Supercharge\nTurn 5    Wind-Up\nTurn 6    Wind-Up\nTurn 7    Wind-Up\nTurn 8    Pass - Stitches dead!
+PVP3::212417I:1225QC:112CAJ:N:Turn 1    Wind-Up\nTurn 2    Wind-Up\nTurn 3    Wind-Up\nTurn 4    Supercharge\nTurn 5    Wind-Up\nTurn 6    Wind-Up\nTurn 7    Wind-Up\nTurn 8    Pass - Stitches dead!
+PVP4::11141FQ:1119BQ:11161D2:N:Turn 1    Pass\nTurn 2    Swap to your Lil' Bling\nTurn 3    Extra Plating\nTurn 4    Make it Rain\nTurn 5-7    Inflation\nTurn 8    Make it Rain
+PVP5::12171BB:12181BB:121A1BB:N:Turn 1    Pass\nTurn 2    Swap to your Lil' Bling\nTurn 3    Extra Plating\nTurn 4    Make it Rain\nTurn 5-7    Inflation\nTurn 8    Make it Rain
+PVP6::2126GQ:211691:121499:N:Turn 1    Crush\nTurn 2    Sandstorm\nTurn 3    Deflection\nTurn 4+    Crush until Crimson is dead (refresh Sandstorm if it comes off cooldown)\nPandaren Fire Spirit comes in\nTurn 1    Deflection\nTurn 2+    Keep Sandstorm on cooldown and use Crush in between.\nImportant: When Deflection comes off cooldown, cast Crush or Sandstorm, then use Deflection again.\nPandaren Fire Spirit should die shortly after the second Deflection.\nGlowy comes in\nUse Crush until Sandstorm comes off cooldown\nThen use Sandstorm\nSwap in Level-Pet 1\nSwap in Level-Pet 2 if you want\nSwap back to Anubisath Idol\nSame as before, Sandstorm on cooldown and Crush in between until Glowy dies.
+PVP7::22271C8:22271C8:22271C8:
+Robert Craig - FF:2VUU:1215198:ZL:1127AI:
+Rocko Needs a Shave:308C:1116143:ZL:ZL:N:Keep Sandstorm active and use Deflection occasionally\nAfter 10 rounds Rocko will die on its own.
+Rukus, Brutus:2JJM:21181BB:111B8L:1126140:
+Rydyr:36TA:ZL:2215198:1225QC:N:Turn 1    Pass\nTurn 2    Swap to your Lil' Bling\nTurn 3    Extra Plating\nTurn 4    Make it Rain\nTurn 5-7    Inflation\nTurn 8    Make it Rain
+Seeker Zusshi:21B6:1114NA:ZL:1126140:N:Turn 1    Shell Shield\nTurn 2    Renewing Mists\nTurn 3    Snap\nTurn 4    Snap\nTurn 5    Renewing Mists\nTurn 6    Shell Shield\nTurn 7    Snap\nTurn 8    Snap\nTurn 9    Renewing Mists\nTurn 10+    Snap until Diamond is dead. Depending on your crab that might have happened way before this point.\nMollus comes in\nContinue with the same strategy, keep Shell Shield and Renewing Mists active. Use Snap in between.\nSkimmer comes in\nTurn 1    Swap to Level Pet\nTurn 2    Swap back to Emperor Crab\nTurn 3+    Keep doing above strategy until your Crab dies.\nBring in Chrominius\nTurn 1    Bite\nTurn 2    Howl\nTurn 3    Surge of Power
+Splint Jr.:36OP:222A15R:221514S:1114NA:N:Turn 1    Black Claw\nTurns 2+3    Hunting Party\nDone!
+Spring Strider:2V8N:11241TO:1126140:ZL:
+Squirt:2DAB:1225QC:ZL:111C5U:N:Turn 1    Sandstorm\nTurn 2    Swap to your Level Pet\nTurn 3    Swap back to your \nTurn 4+    Use Sandstorm on cooldown and use Crush otherwise until you won the fight.
+Stitches Jr. Jr.:37BG:11171BB:1127AI:1225QC:N:Turn 1    Wind-Up\nTurn 2    Wind-Up\nTurn 3    Wind-Up\nTurn 4    Supercharge\nTurn 5    Wind-Up\nTurn 6    Wind-Up\nTurn 7    Wind-Up\nTurn 8    Pass - Stitches dead!
+Taralune:2L2L:ZL:111B8L:1229R4:N:Turn 1    Pass\nTurn 2    Swap to Clockwork Gnome\nTurn 3    Build Turret\nTurn 4    Metal Fist - this will get interrupted\nTurns 5-6    Repair\nTurn 7    Build Turret\nTurn 8    Metal Fist\nTurn 9    Metal Fist\nTurn 10    Build Turret - Serendipity dies\nGrace comes in\nTurn 11    Metal Fist - Grace will cast Lightning, sealing its own fate thanks to your turrets ^^\nTurn 12    Metal Fist - don't bother repairing again. Your gnome won't survive long enough.\nIf your Clockwork Gnome survived, build another turret and keep using Metal Fist until it dies.\nAtonement should be out when you switch to your Pandaren Water Spirit\nDepending on how much life Atonement still has, you can either Water Jet it down (less than 500 HP) or use Geyser, Dive, Water Jet to finish the fight
+Tarr the Terrible:2L26:121616M:21288A:ZL:N:Turn 1    Haunt\nBring in Fossilized Hatchling\nTurn 1    BONESTORM Gladiator Murkalot switches with Gladiator Deathy\nTurn 2    Ancient Blessing\nTurn 3    Swap to your Level Pet\nTurn 4    Swap back to your Fossilized Hatchling\nTurn 5    BONESTORM - killing off Gladiator Murkalot in the back row\nTurn 6    Ancient Blessing\nTurn 7    Bone Bite\nTurn 8    Bone Bite Killing of Gladiator Deathy\nGladiator Murkimus comes in\nThen    Move to Turn 5 and do this rotation until your Fossilized Hatchling dies\nTurns 1+    Bring in your Unborn Val'kyr\nShadow Slash until the fight is done!
+Thistleleaf Bully:36HH:22261D2:11181FS:1127AI:
+Thundering Pandaren Spirit:22RH:111691:122CAJ:ZL:N:Turns 1+2    Dive\nTurn 3    Acidic Goo\nTurn 4    Ooze Touch until Pandaren Earth Spirit dies.\nSludgy comes in\nTurn 1    Acidic Goo\nTurns 2+    Keep Ooze Touching until your Snail dies.\nBring in your Darkmoon Zeppelin\nTurns 1+    Missile until Sludgy dies.\nDarnak comes in\nTurn 1    Missile\nTurn 2    Decoy\nImportant: While doing the next moves. If he gets below 850 and has Stone rush ready, just Skip to Explode for he will do 240 damage to himself.\nTurn 3+    Missile until Darnak is below 618 health.\nThen (BOOM!)    Explode\nYour level pet will be the only survivor and get the full experience of the fight.
+Ti'un the Wanderer:22UI:11141BA:1223MI:122ANB:N:Turn 1    Shell Shield\nTurn 2    Renewing Mists\nTurn 3    Snap\nTurn 4    Snap\nTurn 5    Renewing Mists\nTurn 6    Shell Shield\nTurn 7    Snap\nTurn 8    Snap\nTurn 9    Renewing Mists\nTurn 10+    Snap until Diamond is dead. Depending on your crab that might have happened way before this point.\nMollus comes in\nContinue with the same strategy, keep Shell Shield and Renewing Mists active. Use Snap in between.\nSkimmer comes in\nTurn 1    Swap to Level Pet\nTurn 2    Swap back to Emperor Crab\nTurn 3+    Keep doing above strategy until your Crab dies.\nBring in Chrominius\nTurn 1    Bite\nTurn 2    Howl\nTurn 3    Surge of Power
+Training with Durian::1228BV:ZL:1126140:
+Trapper Jarrun:36VF:111A1BB:1215QC:ZL:P:::::5::
+Trapper Jarrun::222316M:12151I0:1116GQ:
+Trapping::1228KA:1127AI:1225QC:N:Turn 1    Wind-Up\nTurn 2    Wind-Up\nTurn 3    Wind-Up\nTurn 4    Supercharge\nTurn 5    Wind-Up\nTurn 6    Wind-Up\nTurn 7    Wind-Up\nTurn 8    Pass - Stitches dead!
+Vale Leveling:1UB1:1218QD:ZL:112A1GA:N:Turn 1    Sandstorm\nTurn 2    Swap to your Level Pet\nTurn 3    Swap back to your \nTurn 4+    Use Sandstorm on cooldown and use Crush otherwise until you won the fight.
+Varenne - FF:376A:1129HM:1228BV:122BBV:
+Vesharr:2L2J:2116140:1215QC:ZL:N:Turn 1+    Arcane Explosion until Chrominius dies\nBring in your Mechanical Pandaren Dragonling\nTurn 1    Breath\nTurn 2    Thunderbolt\nTurn 3+    Breath until Apexis Guardian resurrects\nThen:    Explode - your small pet gets the full experience points :-)
+Vineyard Enforcer:3AAB:1114NA:1116NA:1116CH:
+Vinu:37TH:22271C8:1116143:1225QC:N:Turn 1    Alpha Strike\nTurn 2    Alpha Strike\nTurn 3    Dodge\nTurn 4    Alpha Strike\nTurn 5    Nature's Ward\nTurn 6    Alpha Strike\nTurn 7    Alpha Strike\nTurn 8    Alpha Strike\nTurn 9    Dodge\nTurn 10    Alpha Strike\nTurn 11    Alpha Strike\nTurn 12    Nature's Ward\nTurn 13    Alpha Strike\nTurn 14    Alpha Strike\nTurn 15    Dodge\nTurn 16    Alpha Strike\nTurn 17    Alpha Strike\nTurn 18    Nature's Ward\nTurn 19    Alpha Strike\nTurn 20    Dodge\nTurns 21+    Alpha Strike until Vinu is dead\nThe next enemy pet comes in\nContinue with your Teroclaw Hatchling using the spells in this priority: Dodge, Nature's Ward when it falls off, Alpha Strike\nIf your Teroclaw dies, bring in your Anubisath Idol and finish up with Sandstorm and Crush
+Wastewalker Shu:215J:21144C:1126140:1127AI:
+Wounded Azurewing Whelpling:381E:1126140:221BHD:1127AI:
+Xorvasc - FF:36GA:111414F:222A14D:1126140:
+
+__ Pandaria Fable __
+
+
+__ Draenor Trainers __
+
+
+__ Argus __
+
+Baneglow::121316M:11181FS:ZL:
+Baneglow:3T09:121316M:11181FS:ZL:
+Foulclaw:3T08:11181FS:ZL:ZL:
+Gloamwing:3T0F:1225QC:121B8L:11181FS:
