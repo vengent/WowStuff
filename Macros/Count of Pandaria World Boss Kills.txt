@@ -1,0 +1,1 @@
+/run local y=0 local function z(n,i) if GetStatistic(i)~='--' then y=y+GetStatistic(i) end print(n.. GetStatistic(i))end z('Sha=',6989); z('Galleon=',6990);z('Ondasta=',8147);z('Nalak=',8146);print('Total='..y);
